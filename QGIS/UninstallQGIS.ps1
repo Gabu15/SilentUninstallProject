@@ -1,0 +1,1 @@
+﻿Get-Package -Name "QGIS*" -AllVersions | Uninstall-Package -Force -ErrorAction SilentlyContinue
